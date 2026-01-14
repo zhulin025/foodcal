@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriLens - AI Food Tracker",
+  "description": "Snap, Eat, Track. An intelligent nutrition companion that uses Gemini AI to recognize food, estimate calories, and track macronutrients from photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
